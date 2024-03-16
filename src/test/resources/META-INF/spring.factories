@@ -1,0 +1,3 @@
+org.springframework.test.context.ContextCustomizerFactory = com.corp.dsarena.\
+    utilty.billpayment.val.config.\
+    SqlTestContainersSpringContextCustomizerFactory
